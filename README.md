@@ -8,4 +8,5 @@
 node app.js
 ```
 ## Tutorial Link
-- node js introduction: https://www.youtube.com/watch?v=Z4V4ZOk3cgA&t=608s
+- node js introduction: https://www.youtube.com/watch?v=Z4V4ZOk3cgA
+- Github: https://www.youtube.com/watch?v=Q75cPDxkvrg
